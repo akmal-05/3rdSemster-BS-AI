@@ -2,8 +2,7 @@
 
 Personal academic repository for **BS Artificial Intelligence, 3rd Semester, SZABIST Islamabad**.
 
-This repository is intentionally simple. There is no dashboard, database, or complicated application.
-
+This repository is intentionally simple.
 I will update it manually through VS Code and GitHub throughout the semester.
 
 ## Subjects
